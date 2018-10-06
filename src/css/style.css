@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+.footer{
+    text-align: center;
+    background-color: cyan;
+}
+.news_item{
+    padding:20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+    text-align:justify 
+}
